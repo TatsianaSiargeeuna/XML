@@ -1,1 +1,19 @@
-
+<xml>
+   <enviroment>
+         <os>Windows 10 Pro x64 v 10.0.18363</os>
+         <browser>Google Chrome v 99.0.4844.51 x64</browser>
+   </enviroment>
+ <Nr>1</Nr>
+ <component>MINICART</component>
+ <issueType>Functional</issueType>
+ <issueTitle>View Cart button leads to the 'Oops! Something went wrong!' page instead of Cart page</issueTitle>
+ <url>https://qatest-dev.indvp.com/fluted-zinc-planters-set-of-two</url>
+    <stepsToReproduce>
+             <step_1>Open PDP</step_1>
+             <step_2>Add product to the cart</step_2>
+             <step_3>Click on Cart icon</step_3>
+             <step_4>Click on View Cart button</step_4>
+    </stepsToReproduce>
+ <expectedResult>Cart page is open</expectedResult>
+ <actualResult>Empty page with 'Oops! Something went wrong!' message is open</actualResult>
+ <attachments>https://watch.screencastify.com/v/8goYEbUDLCmK8lufe1de</attachments> 
