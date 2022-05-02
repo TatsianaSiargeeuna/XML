@@ -1,4 +1,4 @@
-<xml>
+<bugReport>
    <enviroment>
          <os>Windows 10 Pro x64 v 10.0.18363</os>
          <browser>Google Chrome v 99.0.4844.51 x64</browser>
@@ -17,4 +17,4 @@
  <expectedResult>Cart page is open</expectedResult>
  <actualResult>Empty page with 'Oops! Something went wrong!' message is open</actualResult>
  <attachments>https://watch.screencastify.com/v/8goYEbUDLCmK8lufe1de</attachments> 
-</xml>
+</bugReport>
